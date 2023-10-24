@@ -4,8 +4,9 @@
 
 <h4 align="center">
   O intuito deste repositório é compartilhar o código criado do aplicativo do jogo Jokenpô para android.
+  <br><br>
+ <img src="https://github.com/Geessyca/jokenpo-android/blob/main/app.jpeg" width="150px;" alt="jokepo"/><br><br>
 </h4>
-
 ##  👩🏻‍💻 Autora<br>
 <table>
   <tr>
